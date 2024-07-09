@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "*.md": "plaintext",
-        "*.c": "c",
-        "syscall.h": "c",
-        "essentials.h": "c",
-        "unistd.h": "c"
-    }
-}
